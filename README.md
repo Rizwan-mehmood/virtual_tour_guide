@@ -1,4 +1,4 @@
-# uaetourguide
+# Virtual Tour Guide
 
 A new Flutter project.
 
